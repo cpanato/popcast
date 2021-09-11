@@ -55,3 +55,5 @@
 * Jon Lucas
 * Emmanuelle Demompion  https://www.linkedin.com/in/emmanuelle-demompion Scaleway Kubernetes product manager
 * Tihomir Surdilovic  [@tsurdilo](https://twitter.com/tsurdilo)
+* Ralph Squillace [@@ralph_squillace](https://twitter.com/ralph_squillace)
+* Matt Butcher [@technosophos](https://twitter.com/technosophos)
