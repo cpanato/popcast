@@ -29,7 +29,7 @@
 * Tara Hernandez @tequilarista
 * [Sanders Van Vugt](https://www.sandervanvugt.com/)
 * Adrian Cockroft
-* Andy Randall 
+* Andy Randall
 * Deepak Singh
 * Werner Vogel
 * Stephanie Morillo  [@radiomorillo](www.twitter.com/radiomorillo)
