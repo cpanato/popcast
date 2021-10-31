@@ -33,6 +33,9 @@ This is the list of amazing contributors
 
 # Current (Past) Sponsors
 * Cisco
+* Shipa
+* Sidero Labs
+* Gitlab
 * Cockroach Labs
 * Red Hat
 * Lightstep
