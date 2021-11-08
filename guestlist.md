@@ -5,7 +5,7 @@
 * Silvia Botros
 * Nicole Forsgren
 * Alice Goldfuss
-* Bridget Kromhout  [@bridgetkromhout](https://twitter.com/bridgetkromhout)
+* Bridget Kromhout [@bridgetkromhout](https://twitter.com/bridgetkromhout)
 * @jaicesd
 * @theamycode
 * Emily Freeman
@@ -14,19 +14,19 @@
 * Perry Eising
 * Leena Haque
 * Chloe Condon
-* Ashley Willis (McNamara)
+* Ashley Willis (McNamara) [@ashleymcnamara](https://twitter.com/ashleymcnamara)
 * Dawn Parzych
 * Heidi Waterhouse
 * Paris Pittman
 * Aimee Ukasick
-* Kaslin Fields  [@kaslinfields](https://twitter.com/kaslinfields)
+* Kaslin Fields [@kaslinfields](https://twitter.com/kaslinfields)
 * Molly Crowther
 * Nicole Hubbard
 * Lynn Cyrin
-* Tracy Miranda @tracymiranda
-* Tracy Ragan @TracyRagan
+* Tracy Miranda [@tracymiranda](https://www.twitter.com/tracymiranda)
+* Tracy Ragan [@TracyRagan](https://www.twitter.com/TracyRagan)
 * Jacqueline Salinas [@salinas_jacq](https://www.twitter.com/salinas_jacq)
-* Tara Hernandez @tequilarista
+* Tara Hernandez [@tequilarista](https://www.twitter.com/tequilarista)
 * [Sanders Van Vugt](https://www.sandervanvugt.com/)
 * Adrian Cockroft
 * Andy Randall
